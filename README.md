@@ -1,2 +1,1 @@
-# 100_days_of_code_gfg_leetcode
-Problem of the day
+Here I will upload all my daily work day wise.
